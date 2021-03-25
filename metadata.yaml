@@ -1,0 +1,5 @@
+homepage: "https://frontapp.com"
+documentation: "https://help.frontapp.com/t/x129aq/how-to-set-up-a-front-chat-inbox-in-front"
+versions:
+  - sha: 7726a9c0738fa34d36d49c01cfc97503fa4b0eee
+    changeNotes: Initial release
